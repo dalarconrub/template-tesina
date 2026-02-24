@@ -1,0 +1,8 @@
+Nombra los PDFs con el formato: Autor_Año_Título.pdf
+
+Ejemplos:
+  Libros/     → Garcia_2020_Introduccion_estadistica.pdf
+  Artículos/  → Lopez_2019_Metodos_cualitativos.pdf
+  Tesis/      → Perez_2018_Tesis_maestria.pdf
+
+Usa Zotero, Mendeley o EndNote para gestionar citas y exportar la bibliografía.

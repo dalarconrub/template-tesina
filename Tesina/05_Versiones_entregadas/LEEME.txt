@@ -1,0 +1,6 @@
+Guarda aquí cada versión entregada con el formato:
+  Año_Mes_Día_Entrega_Tesina_vN.docx
+
+Ejemplos:
+  2025_03_15_Entrega_Tesina_v1.docx
+  2025_04_20_Entrega_Tesina_v2_correcciones.docx
