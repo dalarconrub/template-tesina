@@ -1,0 +1,29 @@
+% Documento principal de la tesina (LaTeX)
+% Compilar con: pdflatex main && pdflatex main (o latexmk -pdf main)
+
+\documentclass[12pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\title{Título de la tesina}
+\author{Autor}
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\input{capitulo1_introduccion}
+\input{capitulo2_metodologia}
+
+% Añade más capítulos según necesites:
+% \input{capitulo3_resultados}
+% \input{capitulo4_discusion}
+
+% \bibliographystyle{plain}
+% \bibliography{../02_Referencias_bibliograficas/Referencias/mibiblio}
+
+\end{document}

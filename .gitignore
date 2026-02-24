@@ -9,6 +9,17 @@ __pycache__/
 venv/
 .env
 
+# LaTeX (archivos auxiliares de compilación)
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
 # Sistema
 .DS_Store
 Thumbs.db

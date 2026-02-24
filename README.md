@@ -7,6 +7,12 @@ Plantilla lista para copiar y usar en tu proyecto. Incluye una estructura clara 
 1. **Copia** la carpeta `Tesina/` completa a la ubicación donde quieras trabajar (por ejemplo, tu carpeta de proyecto o OneDrive).
 2. **Empieza** a guardar tus archivos en las carpetas correspondientes.
 
+## Formatos de documento
+
+Puedes redactar la tesina en:
+- **Word:** archivos `.docx` (plantillas en .txt para copiar a Word; capítulos con nombre tipo Capítulo1_Introducción).
+- **LaTeX:** documento principal `main.tex` y capítulos `capitulo1_introduccion.tex`, `capitulo2_metodologia.tex` en `01_Borradores_y_textos_propios`. Compila con `pdflatex main` o `latexmk -pdf main`. Las versiones entregadas pueden ser `.pdf`.
+
 ## Estructura de carpetas
 
 | Carpeta | Contenido |

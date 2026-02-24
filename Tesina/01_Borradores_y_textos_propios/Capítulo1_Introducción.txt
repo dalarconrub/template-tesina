@@ -1,2 +1,2 @@
 [Plantilla para Capítulo 1 - Introducción]
-Guarda este archivo como .docx cuando trabajes en Word, o edita aquí.
+Puedes trabajar en Word (guarda como .docx) o en LaTeX (usa capitulo1_introduccion.tex y main.tex).
